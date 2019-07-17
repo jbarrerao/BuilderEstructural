@@ -1,0 +1,11 @@
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\bin\Debug\netcoreapp2.2\BuilderEstructural.deps.json
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\bin\Debug\netcoreapp2.2\BuilderEstructural.runtimeconfig.json
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\bin\Debug\netcoreapp2.2\BuilderEstructural.runtimeconfig.dev.json
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\bin\Debug\netcoreapp2.2\BuilderEstructural.dll
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\bin\Debug\netcoreapp2.2\BuilderEstructural.pdb
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\obj\Debug\netcoreapp2.2\BuilderEstructural.csprojAssemblyReference.cache
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\obj\Debug\netcoreapp2.2\BuilderEstructural.csproj.CoreCompileInputs.cache
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\obj\Debug\netcoreapp2.2\BuilderEstructural.AssemblyInfoInputs.cache
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\obj\Debug\netcoreapp2.2\BuilderEstructural.AssemblyInfo.cs
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\obj\Debug\netcoreapp2.2\BuilderEstructural.dll
+E:\Plan carrera\Gof\patternsCreation\Builder\Estructural\BuilderEstructural\BuilderEstructural\BuilderEstructural\obj\Debug\netcoreapp2.2\BuilderEstructural.pdb
